@@ -18,3 +18,5 @@ word hard
 
 velocidad de cuadros
 sentido de extrema urgencia
+
+fuera U1
